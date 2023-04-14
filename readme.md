@@ -12,11 +12,4 @@ adasasdasdasdasdasdasdadjfnkjfgmfgbsmbg
 
   Paso 3
   Paso 4
-## Subtítulo
-
-adasasdasdasdasdasdasdadjfnkjfgmfgbsmbg
-
-- Item
-- Item
-- Item
-- Item
+  
